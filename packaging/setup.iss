@@ -11,6 +11,7 @@ ArchitecturesAllowed=x64compatible
 ArchitecturesInstallIn64BitMode=x64compatible
 OutputDir=..\dist
 OutputBaseFilename=AI-Builder-Setup-0.1.0-preview
+SetupIconFile=..\app\assets\ai-builder.ico
 Compression=lzma2/fast
 SolidCompression=yes
 WizardStyle=modern
