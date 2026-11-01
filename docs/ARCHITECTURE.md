@@ -1,0 +1,1 @@
+Browser app -> loopback Node HTTP/SSE -> Pi JSONL RPC -> llama.cpp local model or optional OpenAI subscription. Auto planner is a separate tool-free process; one local worker executes. Persistent files remain per-user. Projects are working directories, not enforced sandboxes.

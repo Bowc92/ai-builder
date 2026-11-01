@@ -1,0 +1,1 @@
+UI app/ui: VERIFIED core chat. Local runtime: VERIFIED existing machine. ChatGPT: VERIFIED live response. Auto: VERIFIED simple handoff; repair/Stop edge cases IMPLEMENTED_UNTESTED. Packaging: IN_PROGRESS. GitHub connector UI and Copilot: NOT_STARTED.

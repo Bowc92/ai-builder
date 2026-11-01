@@ -1,0 +1,1 @@
+VERIFIED: local chat, file execution, persistence, ChatGPT sign-in, sequential Auto handoff. IN_PROGRESS: Windows installer and launcher. NOT_STARTED: GitHub UI, Copilot integration, voice, computer control. Source: user requests in Project Development Audit continuation.

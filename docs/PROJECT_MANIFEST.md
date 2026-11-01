@@ -1,0 +1,1 @@
+Independent AI Builder preview. Source recovered from the verified running AI-Builder installation and goose-repair/builder-ui; adap2us is a separate product. No claim that all adap2us reference materials apply to this app.

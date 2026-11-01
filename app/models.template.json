@@ -1,0 +1,27 @@
+{
+  "providers": {
+    "local": {
+      "models": [
+        {
+          "id": "local-coder",
+          "reasoning": false,
+          "name": "Local coder",
+          "contextWindow": 16384,
+          "input": [
+            "text"
+          ],
+          "maxTokens": 2048,
+          "cost": {
+            "input": 0,
+            "cacheWrite": 0,
+            "output": 0,
+            "cacheRead": 0
+          }
+        }
+      ],
+      "baseUrl": "http://127.0.0.1:11437/v1",
+      "api": "openai-completions",
+      "apiKey": "$LOCAL_BUILDER_KEY"
+    }
+  }
+}

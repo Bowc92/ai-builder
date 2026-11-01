@@ -1,0 +1,10 @@
+payload/
+dist/
+tools/
+node_modules/
+*.gguf
+auth.json
+model.key
+state/
+pi-state/
+logs/

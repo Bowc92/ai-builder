@@ -1,0 +1,10 @@
+AI Builder 0.1.0 PREVIEW — Windows x64
+
+Includes the app, Node.js runtime, Pi 1.4.0 and llama.cpp b11960 CPU runtime.
+Model weights are NOT included. On an existing installation your model is preserved.
+On a new computer select a separately downloaded Qwen3.5 4B GGUF on first launch.
+Git for Windows (including Bash) is required for command execution. GitHub CLI is optional.
+ChatGPT is optional, requires your own eligible account, and uses your plan limits.
+This is an unsigned preview. Clean-machine and full autonomous-project tests are incomplete.
+Before upgrading, close AI Builder and stop its local runtime. Projects, chats, credentials,
+settings and models are preserved on uninstall. No automatic cloud billing is configured.
