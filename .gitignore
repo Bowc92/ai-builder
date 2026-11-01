@@ -8,3 +8,5 @@ model.key
 state/
 pi-state/
 logs/
+install-test/
+*.log

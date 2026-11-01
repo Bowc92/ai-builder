@@ -11,3 +11,5 @@ NOT_STARTED: full GitHub UI, Copilot sign-in, speech, computer control, parallel
 Release blockers for a stable release: clean Windows machine testing, authenticated cloud regression testing, Stop/repair-escalation/crash recovery coverage, security review, code signing, guided model download, Git dependency setup, model compatibility validation. Local commands have full user privileges. No enforced filesystem sandbox exists.
 
 This preview must never bundle auth.json, private state, keys, logs, project data, or personal model weights. Per-user setup generates a new local model key and keeps existing credentials outside the payload. Public source is allowlisted by copying only release source files into this repository.
+
+Preview packaging verification: isolated install/uninstall and memory retention passed. Installed runtime and isolated UI respond. Stable release remains blocked by the items above. The launcher reuses a running interface when available; clean-machine model setup is untested.
