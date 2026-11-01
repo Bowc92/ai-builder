@@ -13,3 +13,5 @@ Release blockers for a stable release: clean Windows machine testing, authentica
 This preview must never bundle auth.json, private state, keys, logs, project data, or personal model weights. Per-user setup generates a new local model key and keeps existing credentials outside the payload. Public source is allowlisted by copying only release source files into this repository.
 
 Preview packaging verification: isolated install/uninstall and memory retention passed. Installed runtime and isolated UI respond. Stable release remains blocked by the items above. The launcher reuses a running interface when available; clean-machine model setup is untested.
+
+0.1.0 preview packaging and actual-machine launch VERIFIED. Installer SHA256 is recorded in SHA256SUMS.txt. No claim of clean-machine readiness. GitHub source published; installer is a prerelease artifact.

@@ -1,3 +1,5 @@
 VERIFIED prior runtime: local file write/read-back, ChatGPT exact synthetic response, return-to-local, Auto planning/local execution with exact AUTO_HANDOFF_OK output. Launcher C# compilation and PowerShell syntax parse passed. Installer tests pending.
 
 Installer verification: EXE compiled with Inno Setup 7.1.1; bundled Node v26.13.0 executes; JavaScript syntax checks passed; isolated EXE installation exit 0; installed interface responded on port4181; no credentials, chats, local keys or model weights present immediately after installation; uninstall exit 0, app removed and generated state/interface.json preserved byte-for-byte. Actual-machine upgrade in progress. SHA256 3c66ec22790b022d78010ed7aa47cf13a833d31ca5dadc8f04ac0c95333d2e1b.
+
+Actual-machine upgrade VERIFIED: installer exit 0; desktop setup EXE 80,150,134 bytes; desktop shortcut targets AI-Builder/AI Builder.exe; packaged Node interface returns saved conversations (3); ChatGPT credential metadata remains connected; restarted llama.cpp reports local-coder ready. Model startup required about 15 seconds. Personal state was backed up before upgrade. No live cloud prompt sent during packaging tests.
